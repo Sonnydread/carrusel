@@ -15,7 +15,7 @@ export default function Carrusl() {
     <div className="px-4 py-6 md:py-14 md:px-11">
       <div className="w-full h-screen bg-gray-900 pt-[80px] flex flex-col items-center">
         <h1 className="text-gray-400 text-center text-[24px]">
-          Working with the best technology companies
+          This is my first carousel prototype
         </h1>
         <Carousel
           className="w-full pt-11"
